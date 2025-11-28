@@ -1,0 +1,15 @@
+# CarJak.com
+[Page 1 Main.html](https://github.com/user-attachments/files/23824029/Page.1.Main.html)
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CarJak.com</title>
+        <link rel = "stylesheet" href = "MediaWeb.css">
+    </head>
+    <body>
+        <img src="Media Website Img 3.png" class="mainimg">
+        <img src="Media Website Img 1.png" class="mainimg">
+        <a href="Page 2 Studio.html" class="link" style="top: 2.5%; left:60%;">IN  THE  STUDIO</a>
+        <a href="Page 1 Main.html" class="link" style="left:1.4%;top:2.5%">HOME</a>
+    </body>
+</html>
