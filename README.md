@@ -1,1 +1,11 @@
-# CarJak.com
+# CarJak.com[index.html](https://github.com/user-attachments/files/23823993/index.html)
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Page Not Found</title>
+</head>
+<body>
+  <h1>404 - Page Not Found</h1>
+  <p>The requested page does not exist.</p>
+</body>
+</html>
