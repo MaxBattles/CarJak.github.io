@@ -4,6 +4,12 @@
     position:relative;  
 }
 
+.studioimg{
+    width:100vw;
+    height:auto;
+    position:absolute;  
+}
+
 body{
     margin:0;
     padding:0;
